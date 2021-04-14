@@ -1,0 +1,20 @@
+.container-fluid{
+    background-color:darkblue !important;
+    
+}
+.nav-link{
+    color: white !important;
+    
+}
+
+.nav-item{
+    padding-left: 40px;
+}
+.a{
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
+.b{
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+}
